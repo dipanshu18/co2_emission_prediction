@@ -1,5 +1,16 @@
 # CO2 Emission by vehicles Prediction
 
+This is ML-based web app which uses multi-variant linear regression model to predict CO2 emitted by vehicles using various parameters like engine size, cylinders, fuel type, etc.
+
+## UI
+
+### Initial Homepage
+![Screenshot (60)](https://github.com/dipanshu18/co2_emission_prediction/assets/88198352/a5941330-8074-4768-92f4-2d39559b129c)
+
+### Prediction page
+![Screenshot (61)](https://github.com/dipanshu18/co2_emission_prediction/assets/88198352/6b22dd49-5388-4b36-b969-40a529ad4cff)
+
+
 ## Dataset used
 The dataset contains the details of how CO2 emissions by a vehicle can vary with the different features. 
 
@@ -40,12 +51,3 @@ City and highway fuel consumption ratings are shown in litres per 100 kilometres
 ### CO2 Emissions
 
 The tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving
-
-
-## UI
-
-### Initial Homepage
-![Screenshot (60)](https://github.com/dipanshu18/co2_emission_prediction/assets/88198352/a5941330-8074-4768-92f4-2d39559b129c)
-
-### Prediction page
-![Screenshot (61)](https://github.com/dipanshu18/co2_emission_prediction/assets/88198352/6b22dd49-5388-4b36-b969-40a529ad4cff)
