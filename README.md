@@ -1,7 +1,9 @@
-## CO2 Emission by vehicles Prediction
+# CO2 Emission by vehicles Prediction
 
-The dataset captures the details of how CO2 emissions by a vehicle can vary with the different features. The dataset has been taken from Canada Government official open data website. This is a compiled version. This contains data over a period of 7 years.
-There are total 7385 rows and 12 columns. There are few abbreviations that has been used to describe the features. I am listing them out here. The same can be found in the Data Description sheet.
+## Dataset used
+The dataset contains the details of how CO2 emissions by a vehicle can vary with the different features. 
+
+There are few abbreviations that has been used to describe the features. I am listing them out here.
 
 ### Model
 
@@ -38,3 +40,12 @@ City and highway fuel consumption ratings are shown in litres per 100 kilometres
 ### CO2 Emissions
 
 The tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving
+
+
+## UI
+
+### Initial Homepage
+![Screenshot (60)](https://github.com/dipanshu18/co2_emission_prediction/assets/88198352/a5941330-8074-4768-92f4-2d39559b129c)
+
+### Prediction page
+![Screenshot (61)](https://github.com/dipanshu18/co2_emission_prediction/assets/88198352/6b22dd49-5388-4b36-b969-40a529ad4cff)
