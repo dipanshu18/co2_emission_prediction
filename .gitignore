@@ -1,4 +1,6 @@
 co2_emission
 .ipynb_checkpoints
 model.pkl
+model_lr.pkl
+model_svr.pkl
 .vscode
